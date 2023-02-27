@@ -4,6 +4,8 @@
 ### 2. learning bioinformatic analyses: 
        Principles 
        Applications    
+       
+       
 ### 3. learning about 'machine learning' and practice  
 *to be updated*  
 > Stay hungry, stay foolish.
