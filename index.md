@@ -9,5 +9,4 @@
 ### 3. learning about 'machine learning' and practice  
 *to be updated*  
 > Stay hungry, stay foolish.
-2. Another item
- 
+
